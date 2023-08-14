@@ -1,0 +1,10 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAIs2IxVzjbRMFbqzXpN_ONoI5nEm_AJww",
+  authDomain: "masterzox.firebaseapp.com",
+  databaseURL: "https://masterzox-default-rtdb.firebaseio.com",
+  projectId: "masterzox",
+  storageBucket: "masterzox.appspot.com",
+  messagingSenderId: "824481161282",
+  appId: "1:824481161282:web:fcaf48c78a3649af61cddb",
+  measurementId: "G-P35B2SF4SM"
+};
